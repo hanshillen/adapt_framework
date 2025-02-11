@@ -2,4 +2,4 @@
   path = src/core
   branch = submodule-test
   url = https://github.com/hanshillen/adapt-contrib-core
-  installBranch = v6.20.1
+  installBranch = submodule-test
